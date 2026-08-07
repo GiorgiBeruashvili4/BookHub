@@ -1,0 +1,222 @@
+[
+  {
+    "FileFormat": "PDF",
+    "FileSizeMB": 4.8,
+    "Id": "E00001",
+    "Title": "Clean Code",
+    "Author": "Robert C. Martin",
+    "Genre": "Programming",
+    "PublishYear": 2008,
+    "TotalCopies": 12,
+    "AvailableCopies": 6
+  },
+  {
+    "FileFormat": "EPUB",
+    "FileSizeMB": 6.2,
+    "Id": "E00002",
+    "Title": "The Pragmatic Programmer",
+    "Author": "Andrew Hunt",
+    "Genre": "Programming",
+    "PublishYear": 1999,
+    "TotalCopies": 11,
+    "AvailableCopies": 3
+  },
+  {
+    "FileFormat": "PDF",
+    "FileSizeMB": 5.1,
+    "Id": "E00003",
+    "Title": "Atomic Habits",
+    "Author": "James Clear",
+    "Genre": "Self-Help",
+    "PublishYear": 2018,
+    "TotalCopies": 5,
+    "AvailableCopies": 1
+  },
+  {
+    "FileFormat": "MOBI",
+    "FileSizeMB": 3.9,
+    "Id": "E00004",
+    "Title": "Deep Work",
+    "Author": "Cal Newport",
+    "Genre": "Productivity",
+    "PublishYear": 2016,
+    "TotalCopies": 15,
+    "AvailableCopies": 2
+  },
+  {
+    "FileFormat": "EPUB",
+    "FileSizeMB": 2.7,
+    "Id": "E00005",
+    "Title": "The Psychology of Money",
+    "Author": "Morgan Housel",
+    "Genre": "Finance",
+    "PublishYear": 2020,
+    "TotalCopies": 14,
+    "AvailableCopies": 14
+  },
+  {
+    "FileFormat": "PDF",
+    "FileSizeMB": 8.5,
+    "Id": "E00006",
+    "Title": "Sapiens",
+    "Author": "Yuval Noah Harari",
+    "Genre": "History",
+    "PublishYear": 2011,
+    "TotalCopies": 16,
+    "AvailableCopies": 6
+  },
+  {
+    "FileFormat": "EPUB",
+    "FileSizeMB": 4.3,
+    "Id": "E00007",
+    "Title": "The Lean Startup",
+    "Author": "Eric Ries",
+    "Genre": "Business",
+    "PublishYear": 2011,
+    "TotalCopies": 25,
+    "AvailableCopies": 20
+  },
+  {
+    "FileFormat": "PDF",
+    "FileSizeMB": 3.1,
+    "Id": "E00008",
+    "Title": "Think and Grow Rich",
+    "Author": "Napoleon Hill",
+    "Genre": "Self-Help",
+    "PublishYear": 1937,
+    "TotalCopies": 32,
+    "AvailableCopies": 23
+  },
+  {
+    "FileFormat": "EPUB",
+    "FileSizeMB": 2.9,
+    "Id": "E00009",
+    "Title": "Rich Dad Poor Dad",
+    "Author": "Robert Kiyosaki",
+    "Genre": "Finance",
+    "PublishYear": 1997,
+    "TotalCopies": 18,
+    "AvailableCopies": 10
+  },
+  {
+    "FileFormat": "PDF",
+    "FileSizeMB": 1.4,
+    "Id": "E00010",
+    "Title": "The Art of War",
+    "Author": "Sun Tzu",
+    "Genre": "Philosophy",
+    "PublishYear": -500,
+    "TotalCopies": 12,
+    "AvailableCopies": 2
+  },
+  {
+    "FileFormat": "PDF",
+    "FileSizeMB": 12.6,
+    "Id": "E00011",
+    "Title": "Cracking the Coding Interview",
+    "Author": "Gayle Laakmann McDowell",
+    "Genre": "Programming",
+    "PublishYear": 2015,
+    "TotalCopies": 11,
+    "AvailableCopies": 7
+  },
+  {
+    "FileFormat": "PDF",
+    "FileSizeMB": 18.4,
+    "Id": "E00012",
+    "Title": "Introduction to Algorithms",
+    "Author": "Thomas H. Cormen",
+    "Genre": "Programming",
+    "PublishYear": 2009,
+    "TotalCopies": 9,
+    "AvailableCopies": 8
+  },
+  {
+    "FileFormat": "EPUB",
+    "FileSizeMB": 3.7,
+    "Id": "E00013",
+    "Title": "The Clean Coder",
+    "Author": "Robert C. Martin",
+    "Genre": "Programming",
+    "PublishYear": 2011,
+    "TotalCopies": 17,
+    "AvailableCopies": 2
+  },
+  {
+    "FileFormat": "PDF",
+    "FileSizeMB": 10.9,
+    "Id": "E00014",
+    "Title": "Refactoring",
+    "Author": "Martin Fowler",
+    "Genre": "Programming",
+    "PublishYear": 2018,
+    "TotalCopies": 16,
+    "AvailableCopies": 1
+  },
+  {
+    "FileFormat": "PDF",
+    "FileSizeMB": 7.8,
+    "Id": "E00015",
+    "Title": "Design Patterns",
+    "Author": "Erich Gamma",
+    "Genre": "Programming",
+    "PublishYear": 1994,
+    "TotalCopies": 14,
+    "AvailableCopies": 4
+  },
+  {
+    "FileFormat": "EPUB",
+    "FileSizeMB": 2.8,
+    "Id": "E00016",
+    "Title": "The Mythical Man-Month",
+    "Author": "Frederick P. Brooks Jr.",
+    "Genre": "Software Engineering",
+    "PublishYear": 1975,
+    "TotalCopies": 15,
+    "AvailableCopies": 5
+  },
+  {
+    "FileFormat": "MOBI",
+    "FileSizeMB": 2.5,
+    "Id": "E00017",
+    "Title": "Zero to One",
+    "Author": "Peter Thiel",
+    "Genre": "Business",
+    "PublishYear": 2014,
+    "TotalCopies": 17,
+    "AvailableCopies": 4
+  },
+  {
+    "FileFormat": "EPUB",
+    "FileSizeMB": 3.8,
+    "Id": "E00018",
+    "Title": "The 7 Habits of Highly Effective People",
+    "Author": "Stephen R. Covey",
+    "Genre": "Self-Help",
+    "PublishYear": 1989,
+    "TotalCopies": 17,
+    "AvailableCopies": 6
+  },
+  {
+    "FileFormat": "PDF",
+    "FileSizeMB": 6.5,
+    "Id": "E00019",
+    "Title": "Thinking, Fast and Slow",
+    "Author": "Daniel Kahneman",
+    "Genre": "Psychology",
+    "PublishYear": 2011,
+    "TotalCopies": 11,
+    "AvailableCopies": 6
+  },
+  {
+    "FileFormat": "EPUB",
+    "FileSizeMB": 4.1,
+    "Id": "E00020",
+    "Title": "Can\u0027t Hurt Me",
+    "Author": "David Goggins",
+    "Genre": "Biography",
+    "PublishYear": 2018,
+    "TotalCopies": 19,
+    "AvailableCopies": 0
+  }
+]

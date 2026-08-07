@@ -1,0 +1,202 @@
+[
+  {
+    "IssueNumber": "Vol. 247, No. 1",
+    "Id": "M00001",
+    "Title": "National Geographic",
+    "Author": "National Geographic Society",
+    "Genre": "Science",
+    "PublishYear": 2025,
+    "TotalCopies": 8,
+    "AvailableCopies": 6
+  },
+  {
+    "IssueNumber": "Issue 2025-01",
+    "Id": "M00002",
+    "Title": "TIME",
+    "Author": "TIME USA LLC",
+    "Genre": "News",
+    "PublishYear": 2025,
+    "TotalCopies": 10,
+    "AvailableCopies": 8
+  },
+  {
+    "IssueNumber": "January 2025",
+    "Id": "M00003",
+    "Title": "Forbes",
+    "Author": "Forbes Media",
+    "Genre": "Business",
+    "PublishYear": 2025,
+    "TotalCopies": 7,
+    "AvailableCopies": 5
+  },
+  {
+    "IssueNumber": "Vol. 332, No. 2",
+    "Id": "M00004",
+    "Title": "Scientific American",
+    "Author": "Springer Nature",
+    "Genre": "Science",
+    "PublishYear": 2025,
+    "TotalCopies": 6,
+    "AvailableCopies": 4
+  },
+  {
+    "IssueNumber": "Issue 9435",
+    "Id": "M00005",
+    "Title": "The Economist",
+    "Author": "The Economist Group",
+    "Genre": "Economics",
+    "PublishYear": 2025,
+    "TotalCopies": 9,
+    "AvailableCopies": 7
+  },
+  {
+    "IssueNumber": "Issue 402",
+    "Id": "M00006",
+    "Title": "PC Gamer",
+    "Author": "Future plc",
+    "Genre": "Gaming",
+    "PublishYear": 2025,
+    "TotalCopies": 5,
+    "AvailableCopies": 3
+  },
+  {
+    "IssueNumber": "February 2025",
+    "Id": "M00007",
+    "Title": "Wired",
+    "Author": "Cond\u00E9 Nast",
+    "Genre": "Technology",
+    "PublishYear": 2025,
+    "TotalCopies": 8,
+    "AvailableCopies": 6
+  },
+  {
+    "IssueNumber": "Vol. 128, No. 1",
+    "Id": "M00008",
+    "Title": "MIT Technology Review",
+    "Author": "MIT",
+    "Genre": "Technology",
+    "PublishYear": 2025,
+    "TotalCopies": 6,
+    "AvailableCopies": 5
+  },
+  {
+    "IssueNumber": "Issue 3501",
+    "Id": "M00009",
+    "Title": "New Scientist",
+    "Author": "New Scientist Ltd.",
+    "Genre": "Science",
+    "PublishYear": 2025,
+    "TotalCopies": 7,
+    "AvailableCopies": 6
+  },
+  {
+    "IssueNumber": "Vol. 637",
+    "Id": "M00010",
+    "Title": "Nature",
+    "Author": "Springer Nature",
+    "Genre": "Science",
+    "PublishYear": 2025,
+    "TotalCopies": 5,
+    "AvailableCopies": 4
+  },
+  {
+    "IssueNumber": "Spring 2025",
+    "Id": "M00011",
+    "Title": "Vogue",
+    "Author": "Cond\u00E9 Nast",
+    "Genre": "Fashion",
+    "PublishYear": 2025,
+    "TotalCopies": 6,
+    "AvailableCopies": 5
+  },
+  {
+    "IssueNumber": "March 2025",
+    "Id": "M00012",
+    "Title": "Men\u0027s Health",
+    "Author": "Hearst Communications",
+    "Genre": "Health",
+    "PublishYear": 2025,
+    "TotalCopies": 7,
+    "AvailableCopies": 6
+  },
+  {
+    "IssueNumber": "April 2025",
+    "Id": "M00013",
+    "Title": "Women\u0027s Health",
+    "Author": "Hearst Communications",
+    "Genre": "Health",
+    "PublishYear": 2025,
+    "TotalCopies": 6,
+    "AvailableCopies": 5
+  },
+  {
+    "IssueNumber": "Issue 710",
+    "Id": "M00014",
+    "Title": "Car and Driver",
+    "Author": "Hearst Communications",
+    "Genre": "Automotive",
+    "PublishYear": 2025,
+    "TotalCopies": 5,
+    "AvailableCopies": 4
+  },
+  {
+    "IssueNumber": "May 2025",
+    "Id": "M00015",
+    "Title": "Popular Mechanics",
+    "Author": "Hearst Communications",
+    "Genre": "Engineering",
+    "PublishYear": 2025,
+    "TotalCopies": 8,
+    "AvailableCopies": 7
+  },
+  {
+    "IssueNumber": "Vol. 62, No. 4",
+    "Id": "M00016",
+    "Title": "IEEE Spectrum",
+    "Author": "IEEE",
+    "Genre": "Engineering",
+    "PublishYear": 2025,
+    "TotalCopies": 6,
+    "AvailableCopies": 5
+  },
+  {
+    "IssueNumber": "Issue 380",
+    "Id": "M00017",
+    "Title": "Game Informer",
+    "Author": "Game Informer",
+    "Genre": "Gaming",
+    "PublishYear": 2025,
+    "TotalCopies": 7,
+    "AvailableCopies": 5
+  },
+  {
+    "IssueNumber": "Issue 420",
+    "Id": "M00018",
+    "Title": "Empire",
+    "Author": "Empire Magazine",
+    "Genre": "Entertainment",
+    "PublishYear": 2025,
+    "TotalCopies": 6,
+    "AvailableCopies": 4
+  },
+  {
+    "IssueNumber": "June 2025",
+    "Id": "M00019",
+    "Title": "BBC History Magazine",
+    "Author": "Immediate Media",
+    "Genre": "History",
+    "PublishYear": 2025,
+    "TotalCopies": 5,
+    "AvailableCopies": 3
+  },
+  {
+    "IssueNumber": "Issue 315",
+    "Id": "M00020",
+    "Title": "Linux Journal",
+    "Author": "Linux Journal",
+    "Genre": "Technology",
+    "PublishYear": 2025,
+    "TotalCopies": 5,
+    "AvailableCopies": 4
+  }
+]

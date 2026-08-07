@@ -1,0 +1,191 @@
+[
+  {
+    "Department": "Human Resources",
+    "Id": "12345678900",
+    "FullName": "Giorgi Beruashvili",
+    "Email": "giorgi123@gmail.com",
+    "Address": "rustavi",
+    "PhoneNumber": "\u002B995555123456",
+    "PasswordHash": "$2a$11$KZwag2DW8qhndwm8/E1ig.F/8v0uUB3Bp8RoSmE8XTd99TOmYOvym"
+  },
+  {
+    "Department": "Human Resources",
+    "Id": "10000000001",
+    "FullName": "Giorgi Beridze",
+    "Email": "giorgi.beridze@example.com",
+    "Address": "12 Rustaveli Avenue, Tbilisi",
+    "PhoneNumber": "\u002B995555123101",
+    "PasswordHash": "hash1"
+  },
+  {
+    "Department": "Finance",
+    "Id": "10000000002",
+    "FullName": "Nino Kapanadze",
+    "Email": "nino.kapanadze@example.com",
+    "Address": "25 Chavchavadze Avenue, Tbilisi",
+    "PhoneNumber": "\u002B995555123102",
+    "PasswordHash": "hash2"
+  },
+  {
+    "Department": "IT",
+    "Id": "10000000003",
+    "FullName": "Levan Gogoladze",
+    "Email": "levan.gogoladze@example.com",
+    "Address": "18 Agmashenebeli Avenue, Kutaisi",
+    "PhoneNumber": "\u002B995555123103",
+    "PasswordHash": "hash3"
+  },
+  {
+    "Department": "Admissions",
+    "Id": "10000000004",
+    "FullName": "Tamar Gelashvili",
+    "Email": "tamar.gelashvili@example.com",
+    "Address": "7 Kostava Street, Batumi",
+    "PhoneNumber": "\u002B995555123104",
+    "PasswordHash": "hash4"
+  },
+  {
+    "Department": "Library",
+    "Id": "10000000005",
+    "FullName": "Irakli Mchedlidze",
+    "Email": "irakli.mchedlidze@example.com",
+    "Address": "33 Paliashvili Street, Tbilisi",
+    "PhoneNumber": "\u002B995555123105",
+    "PasswordHash": "hash5"
+  },
+  {
+    "Department": "Student Affairs",
+    "Id": "10000000006",
+    "FullName": "Mariam Janelidze",
+    "Email": "mariam.janelidze@example.com",
+    "Address": "11 Guramishvili Avenue, Tbilisi",
+    "PhoneNumber": "\u002B995555123106",
+    "PasswordHash": "hash6"
+  },
+  {
+    "Department": "Finance",
+    "Id": "10000000007",
+    "FullName": "Davit Chikhladze",
+    "Email": "davit.chikhladze@example.com",
+    "Address": "5 Javakhishvili Street, Gori",
+    "PhoneNumber": "\u002B995555123107",
+    "PasswordHash": "hash7"
+  },
+  {
+    "Department": "IT",
+    "Id": "10000000008",
+    "FullName": "Ana Khutsishvili",
+    "Email": "ana.khutsishvili@example.com",
+    "Address": "42 Tsereteli Avenue, Kutaisi",
+    "PhoneNumber": "\u002B995555123108",
+    "PasswordHash": "hash8"
+  },
+  {
+    "Department": "Security",
+    "Id": "10000000009",
+    "FullName": "Zaza Shengelia",
+    "Email": "zaza.shengelia@example.com",
+    "Address": "14 Baratashvili Street, Zugdidi",
+    "PhoneNumber": "\u002B995555123109",
+    "PasswordHash": "hash9"
+  },
+  {
+    "Department": "Human Resources",
+    "Id": "10000000010",
+    "FullName": "Ketevan Lomidze",
+    "Email": "ketevan.lomidze@example.com",
+    "Address": "61 Melikishvili Avenue, Tbilisi",
+    "PhoneNumber": "\u002B995555123110",
+    "PasswordHash": "hash10"
+  },
+  {
+    "Department": "Maintenance",
+    "Id": "10000000011",
+    "FullName": "Beka Tsiklauri",
+    "Email": "beka.tsiklauri@example.com",
+    "Address": "8 Kazbegi Avenue, Tbilisi",
+    "PhoneNumber": "\u002B995555123111",
+    "PasswordHash": "hash11"
+  },
+  {
+    "Department": "Admissions",
+    "Id": "10000000012",
+    "FullName": "Salome Makharadze",
+    "Email": "salome.makharadze@example.com",
+    "Address": "22 Vazha-Pshavela Avenue, Tbilisi",
+    "PhoneNumber": "\u002B995555123112",
+    "PasswordHash": "hash12"
+  },
+  {
+    "Department": "Library",
+    "Id": "10000000013",
+    "FullName": "Vakhtang Kharadze",
+    "Email": "vakhtang.kharadze@example.com",
+    "Address": "16 Gorgasali Street, Batumi",
+    "PhoneNumber": "\u002B995555123113",
+    "PasswordHash": "hash13"
+  },
+  {
+    "Department": "IT",
+    "Id": "10000000014",
+    "FullName": "Elene Nadiradze",
+    "Email": "elene.nadiradze@example.com",
+    "Address": "3 Queen Tamar Street, Rustavi",
+    "PhoneNumber": "\u002B995555123114",
+    "PasswordHash": "hash14"
+  },
+  {
+    "Department": "Student Affairs",
+    "Id": "10000000015",
+    "FullName": "Nika Kbilashvili",
+    "Email": "nika.kbilashvili@example.com",
+    "Address": "45 Freedom Street, Telavi",
+    "PhoneNumber": "\u002B995555123115",
+    "PasswordHash": "hash15"
+  },
+  {
+    "Department": "Finance",
+    "Id": "10000000016",
+    "FullName": "Sophio Tsereteli",
+    "Email": "sophio.tsereteli@example.com",
+    "Address": "29 Rustaveli Street, Akhaltsikhe",
+    "PhoneNumber": "\u002B995555123116",
+    "PasswordHash": "hash16"
+  },
+  {
+    "Department": "Maintenance",
+    "Id": "10000000017",
+    "FullName": "Otar Gvazava",
+    "Email": "otar.gvazava@example.com",
+    "Address": "10 Shota Rustaveli Street, Poti",
+    "PhoneNumber": "\u002B995555123117",
+    "PasswordHash": "hash17"
+  },
+  {
+    "Department": "Security",
+    "Id": "10000000018",
+    "FullName": "Natia Abashidze",
+    "Email": "natia.abashidze@example.com",
+    "Address": "54 Gurjaani Street, Gurjaani",
+    "PhoneNumber": "\u002B995555123118",
+    "PasswordHash": "hash18"
+  },
+  {
+    "Department": "Human Resources",
+    "Id": "10000000019",
+    "FullName": "Tornike Kalandadze",
+    "Email": "tornike.kalandadze@example.com",
+    "Address": "31 Tamar Mepe Street, Kutaisi",
+    "PhoneNumber": "\u002B995555123119",
+    "PasswordHash": "hash19"
+  },
+  {
+    "Department": "Admissions",
+    "Id": "10000000020",
+    "FullName": "Kristine Chkhaidze",
+    "Email": "kristine.chkhaidze@example.com",
+    "Address": "9 King Erekle II Street, Tbilisi",
+    "PhoneNumber": "\u002B995555123120",
+    "PasswordHash": "hash20"
+  }
+]

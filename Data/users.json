@@ -1,0 +1,170 @@
+[
+  {
+    "Id": "98765432100",
+    "FullName": "Giorgi Beruashvili",
+    "Email": "giorgi@gmail.com",
+    "Address": "rustavi",
+    "PhoneNumber": "\u002B995555987654",
+    "PasswordHash": "$2a$11$OkY.9ZnpWGTcdbpaEIgRxemHvqMt0SzPLWDsN2/wX9JDY.YGkxf4G"
+  },
+  {
+    "Id": "10000000001",
+    "FullName": "Giorgi Beridze",
+    "Email": "giorgi.beridze@gmail.com",
+    "Address": "12 Rustaveli Ave, Tbilisi",
+    "PhoneNumber": "\u002B995555123101",
+    "PasswordHash": "hash1"
+  },
+  {
+    "Id": "10000000002",
+    "FullName": "Nino Kapanadze",
+    "Email": "nino.kapanadze@gmail.com",
+    "Address": "25 Chavchavadze Ave, Tbilisi",
+    "PhoneNumber": "\u002B995555123102",
+    "PasswordHash": "hash2"
+  },
+  {
+    "Id": "10000000003",
+    "FullName": "Levan Gogoladze",
+    "Email": "levan.gogoladze@gmail.com",
+    "Address": "18 Agmashenebeli Ave, Kutaisi",
+    "PhoneNumber": "\u002B995555123103",
+    "PasswordHash": "hash3"
+  },
+  {
+    "Id": "10000000004",
+    "FullName": "Tamar Gelashvili",
+    "Email": "tamar.gelashvili@gmail.com",
+    "Address": "7 Kostava St, Batumi",
+    "PhoneNumber": "\u002B995555123104",
+    "PasswordHash": "hash4"
+  },
+  {
+    "Id": "10000000005",
+    "FullName": "Irakli Mchedlidze",
+    "Email": "irakli.mchedlidze@gmail.com",
+    "Address": "33 Paliashvili St, Tbilisi",
+    "PhoneNumber": "\u002B995555123105",
+    "PasswordHash": "hash5"
+  },
+  {
+    "Id": "10000000006",
+    "FullName": "Mariam Janelidze",
+    "Email": "mariam.janelidze@gmail.com",
+    "Address": "11 Guramishvili Ave, Tbilisi",
+    "PhoneNumber": "\u002B995555123106",
+    "PasswordHash": "hash6"
+  },
+  {
+    "Id": "10000000007",
+    "FullName": "David Chikhladze",
+    "Email": "david.chikhladze@gmail.com",
+    "Address": "5 Javakhishvili St, Gori",
+    "PhoneNumber": "\u002B995555123107",
+    "PasswordHash": "hash7"
+  },
+  {
+    "Id": "10000000008",
+    "FullName": "Ana Khutsishvili",
+    "Email": "ana.khutsishvili@gmail.com",
+    "Address": "42 Tsereteli Ave, Kutaisi",
+    "PhoneNumber": "\u002B995555123108",
+    "PasswordHash": "hash8"
+  },
+  {
+    "Id": "10000000009",
+    "FullName": "Zaza Shengelia",
+    "Email": "zaza.shengelia@gmail.com",
+    "Address": "14 Baratashvili St, Zugdidi",
+    "PhoneNumber": "\u002B995555123109",
+    "PasswordHash": "hash9"
+  },
+  {
+    "Id": "10000000010",
+    "FullName": "Ketevan Lomidze",
+    "Email": "ketevan.lomidze@gmail.com",
+    "Address": "61 Melikishvili Ave, Tbilisi",
+    "PhoneNumber": "\u002B995555123110",
+    "PasswordHash": "hash10"
+  },
+  {
+    "Id": "10000000011",
+    "FullName": "Beka Tsiklauri",
+    "Email": "beka.tsiklauri@gmail.com",
+    "Address": "8 Kazbegi Ave, Tbilisi",
+    "PhoneNumber": "\u002B995555123111",
+    "PasswordHash": "hash11"
+  },
+  {
+    "Id": "10000000012",
+    "FullName": "Salome Makharadze",
+    "Email": "salome.makharadze@gmail.com",
+    "Address": "22 Vazha Pshavela Ave, Tbilisi",
+    "PhoneNumber": "\u002B995555123112",
+    "PasswordHash": "hash12"
+  },
+  {
+    "Id": "10000000013",
+    "FullName": "Vakhtang Kharadze",
+    "Email": "vakhtang.kharadze@gmail.com",
+    "Address": "16 Gorgasali St, Batumi",
+    "PhoneNumber": "\u002B995555123113",
+    "PasswordHash": "hash13"
+  },
+  {
+    "Id": "10000000014",
+    "FullName": "Elene Nadiradze",
+    "Email": "elene.nadiradze@gmail.com",
+    "Address": "3 Tamar Mepe St, Rustavi",
+    "PhoneNumber": "\u002B995555123114",
+    "PasswordHash": "hash14"
+  },
+  {
+    "Id": "10000000015",
+    "FullName": "Nika Kbilashvili",
+    "Email": "nika.kbilashvili@gmail.com",
+    "Address": "45 Freedom St, Telavi",
+    "PhoneNumber": "\u002B995555123115",
+    "PasswordHash": "hash15"
+  },
+  {
+    "Id": "10000000016",
+    "FullName": "Sopio Tsereteli",
+    "Email": "sopio.tsereteli@gmail.com",
+    "Address": "29 Rustaveli St, Akhaltsikhe",
+    "PhoneNumber": "\u002B995555123116",
+    "PasswordHash": "hash16"
+  },
+  {
+    "Id": "10000000017",
+    "FullName": "Otar Gvazava",
+    "Email": "otar.gvazava@gmail.com",
+    "Address": "10 Rustaveli St, Poti",
+    "PhoneNumber": "\u002B995555123117",
+    "PasswordHash": "hash17"
+  },
+  {
+    "Id": "10000000018",
+    "FullName": "Natia Abashidze",
+    "Email": "natia.abashidze@gmail.com",
+    "Address": "54 Gurjaani St, Gurjaani",
+    "PhoneNumber": "\u002B995555123118",
+    "PasswordHash": "hash18"
+  },
+  {
+    "Id": "10000000019",
+    "FullName": "Tornike Kalandadze",
+    "Email": "tornike.kalandadze@gmail.com",
+    "Address": "31 Tamar Mepe St, Kutaisi",
+    "PhoneNumber": "\u002B995555123119",
+    "PasswordHash": "hash19"
+  },
+  {
+    "Id": "10000000020",
+    "FullName": "Kristine Chkhaidze",
+    "Email": "kristine.chkhaidze@gmail.com",
+    "Address": "9 Erekle II St, Tbilisi",
+    "PhoneNumber": "\u002B995555123120",
+    "PasswordHash": "hash20"
+  }
+]
