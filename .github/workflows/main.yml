@@ -6,8 +6,8 @@ on:
       - main
 
 jobs:
-  run-on: ubuntu-latest
-
-  steps:
-    - name: Print message
-    run: echo "Hello World"
+  first-job:
+    run-on: ubuntu-latest
+    steps:
+      - name: Print message
+      run: echo "Hello World"
