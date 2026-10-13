@@ -8,6 +8,7 @@ on:
 jobs:
   first-job:
     run-on: ubuntu-latest
-    steps:
-      - name: Print message
-      run: echo "Hello World"
+    
+  steps:
+    - name: Print message
+    run: echo "Hello World"
